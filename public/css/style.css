@@ -1,0 +1,19 @@
+
+/*галерея для страницы редактирования новостей в админке*/
+.admin-image-delete {
+  position: absolute;
+  right: 25px;
+  cursor: pointer;
+}
+.admin-image-delete .fa {
+  color: red;
+}
+
+.red {
+  color:red;
+}
+.admin-document {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
